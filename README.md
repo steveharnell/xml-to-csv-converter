@@ -3,7 +3,7 @@ Preston XML to CSV Converter
 
 Release v1.0 - macOS Universal Binary
 
-A simple utility for film and video professionals that converts Preston FIZ (Focus, Iris, Zoom) metadata from XML format to CSV format. This tool is designed specifically for macOS (Universal Binary - compatible with both Intel and Apple Silicon).
+A simple utility for film and video professionals that converts Preston FIZ (Time Code, Focus, Iris, Zoom, Aux) metadata from XML format to CSV format. This tool is designed specifically for macOS (Universal Binary - compatible with both Intel and Apple Silicon).
 
 Features:
 Import Preston FIZ metadata XML files
